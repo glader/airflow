@@ -1,0 +1,2 @@
+Поставил по инструкции https://tecadmin.net/install-python-3-8-ubuntu/
+Проверил моржовый оператор, работает.
